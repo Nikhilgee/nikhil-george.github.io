@@ -24,7 +24,7 @@ menu:
       url: /teaching/
       weight: 3
 params:
-  description: "Nikhil George's academic research on technology, work, and attention markets"
+  description: "Nikhil George's academic research on human capital, skill dynamics, organizational decision-making, and AI adoption"
   author: "Nikhil George"
   DateFormat: "January 2006"
   defaultTheme: light
@@ -52,7 +52,7 @@ params:
     enabled: true
     title: "Nikhil George"
     # <-- BIO IS UPDATED BELOW WITH LINE BREAKS
-    subtitle: "I study how technology transforms work, talent allocation, and attention markets. My research develops novel measurement approaches using machine learning to understand how workers adapt to technological change and how digital platforms design offerings around viewer preferences and attention.<br><br>Recent work creates methods for measuring occupational skill change from job posting text and examines how different types of technological shocks create distinct worker mobility patterns. I'm also interested in how streaming platforms bundle content with advertising models, and the emerging opportunities in AI-enabled environments.<br><br>Beyond understanding these phenomena, I develop frameworks for organizations to leverage existing data for improved talent management and strategic decision-making. As AI capabilities advance, I'm particularly focused on applications that enhance organizational intelligence and decision-making processes.<br><br>PhD in Information Systems, Carnegie Mellon University.<br><br>Assistant Professor (Visiting), Plaksha University.<br><br>Research interests: LLMs and Embeddings, Applied Economic Theory, AI Applications"
+    subtitle: "I study human capital and human decision-making — how skills form and shift, how experts decide under pressure, and how organizations can act on what their data already tells them.<br><br>My research develops measurement frameworks from unstructured data and machine learning. The goal is consistent: to make visible something previously hard to see — whether that is how technology reshapes the structure of occupational skills, how AI adoption changes what firms need from workers, or when expert decision routines break down.<br><br>I work at three levels. Some questions concern broad macro patterns — how technological shocks propagate through labor markets, and who adapts and who doesn't. Some address nuanced behavioral phenomena — the conditions under which expert judgment departs from what experience actually supports. And some focus on actionable insight — frameworks that let organizations use the data they already have to make better decisions about talent.<br><br>The contexts vary: labor markets, firms, competitive sports, financial services. A new direction I am developing asks how differences in the way people work shape their complementarity with generative AI tools — who benefits most, and why.<br><br>I teach at the intersection of technology and economics — how data, machine learning, and AI are applied in business and economic contexts.<br><br>PhD in Information Systems, Carnegie Mellon University. Visiting Assistant Professor, Plaksha University."
     imageUrl: "/images/profile.webp"
     imageWidth: 200
     imageHeight: 200
